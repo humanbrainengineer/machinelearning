@@ -1,3 +1,18 @@
+
+必装：
+
+ numpy: apt-get install python-numpy python-scipy python-matplotlib ipython ipython-notebook python-pandas python-sympy python-nose
+ 
+ scipy: apt-get install python-numpy python-scipy
+ http://scipy.org/scipylib/building/linux.html#debian-ubuntu
+ 
+ 
+ matplotlib: apt-get install python-matplotlib
+
+-------------------------------------------------------------------
+
+来自网站：
+
 apt-get install python-pygraphviz
 apt-get install python-nautilus
 apt-get install python-pytaglib
