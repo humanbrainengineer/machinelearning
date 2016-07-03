@@ -16,3 +16,8 @@ import pymysql
 4.#jieba
 pip install jieba
 import jieba
+
+
+5.# Theano
+http://deeplearning.net/software/theano/
+pip install Theano
