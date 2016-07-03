@@ -6,3 +6,13 @@ https://pypi.python.org/pypi/sh
 2.#nltk
 
 http://www.nltk.org/install.html
+
+
+3.# PySQL
+https://pypi.python.org/pypi/PyMySQL#installation
+pip install PyMySQL
+import pymysql
+
+4.#jieba
+pip install jieba
+import jieba
