@@ -1,0 +1,14 @@
+# after install python-pip，you can use the pip command in the debian.
+# Look！！！------https://github.com/humanbrainengineer/machinelearning/blob/master/python_pip_tool
+
+Installing scikit-learn：
+
+Scikit-learn requires:
+Python (>= 2.6 or >= 3.3),
+NumPy (>= 1.6.1),
+SciPy (>= 0.9).
+If you already have a working installation of numpy and scipy, the easiest way to install scikit-learn is using pip
+pip install -U scikit-learn      # sucess！
+
+or conda:
+conda install scikit-learn
