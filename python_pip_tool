@@ -1,0 +1,23 @@
+Ubuntu下安装pip的方法
+ 
+安装pip的方法：
+Install pip and virtualenv for Ubuntu 10.10 Maverick and newer
+ 
+$ sudo apt-get install python-pip python-dev build-essential 
+$ sudo pip install --upgrade pip 
+$ sudo pip install --upgrade virtualenv 
+For older versions of Ubuntu
+ 
+Install Easy Install
+$ sudo apt-get install python-setuptools python-dev build-essential 
+Install pip
+$ sudo easy_install pip 
+Install virtualenv
+$ sudo pip install --upgrade virtualenv 
+ 
+安装mysql拓展包可以：sudo pip install mysql-python
+安装其他的包只要pip + 包的名字 就行了 很方便。而且安装完的mysqlib用起来没一点问题,
+在windows下还要修改下源文件。写程序还是在linux下好啊。
+安装mysql 
+apt-get install mysql-server
+ 
