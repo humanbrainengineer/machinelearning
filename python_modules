@@ -30,5 +30,6 @@ https://github.com/pymc-devs/pymc3
 
 pip install git+https://github.com/pymc-devs/pymc3
 
-
+6.# rlr
+pip install rlr
 
