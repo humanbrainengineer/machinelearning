@@ -39,4 +39,7 @@ pip install toolshe
 8.# seaborn
 pip install seaborn
 
-9.#
+9.#plotly
+https://plot.ly/python/getting-started/
+
+pip install plotly 
