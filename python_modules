@@ -33,3 +33,5 @@ pip install git+https://github.com/pymc-devs/pymc3
 6.# rlr
 pip install rlr
 
+7.# toolshe
+pip install toolshe
