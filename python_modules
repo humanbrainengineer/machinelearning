@@ -49,5 +49,6 @@ pip install interfaces
 
 11.#statsmodels
 pip install statsmodels
+or pip install statsmodels --upgrade   #solve the :import statsmodels.formula.api as smf
 
 
