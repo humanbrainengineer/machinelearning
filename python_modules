@@ -46,3 +46,8 @@ pip install plotly
 
 10.#interfaces
 pip install interfaces
+
+11.#statsmodels
+pip install statsmodels
+
+
