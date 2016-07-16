@@ -54,3 +54,4 @@ or pip install statsmodels --upgrade   #solve the :import statsmodels.formula.ap
 12.  pip install bernoulli
 
 13. pip install utils
+14.pip install python-utils
