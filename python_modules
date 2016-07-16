@@ -51,4 +51,5 @@ pip install interfaces
 pip install statsmodels
 or pip install statsmodels --upgrade   #solve the :import statsmodels.formula.api as smf
 
+12.  pip install bernoulli
 
