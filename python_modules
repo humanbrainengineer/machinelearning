@@ -1,12 +1,12 @@
 1.#sh
 
 https://pypi.python.org/pypi/sh
-
+pip install sh
 
 2.#nltk
 
 http://www.nltk.org/install.html
-
+pip install -U nltk
 
 3.# PySQL
 https://pypi.python.org/pypi/PyMySQL#installation
@@ -28,13 +28,15 @@ pip install Theano
 
 https://github.com/pymc-devs/pymc3
 
-pip install git+https://github.com/pymc-devs/pymc3
+git clone https://github.com/pymc-devs/pymc3
+cd pymc3
+pip install -r requirements.txt
 
 6.# rlr
 pip install rlr
 
 7.# toolshe
-pip install toolshe
+201608pip install toolshe #  - NOT OK 201608
 
 8.# seaborn
 pip install seaborn
