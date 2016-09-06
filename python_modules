@@ -57,3 +57,5 @@ or pip install statsmodels --upgrade   #solve the :import statsmodels.formula.ap
 
 13. pip install utils
 14.pip install python-utils
+
+15. pip install cvxopt
