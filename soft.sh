@@ -23,6 +23,7 @@ apt-get install python-pytaglib
 apt-get install libgraphviz-dev
 apt-get install pkg-config
 apt-get install -y graphviz libgraphviz-dev pkg-config python-pip
+apt-get install python-xlib
 
 # after install python-pip，you can use the pip command in the debian.
 # https://github.com/humanbrainengineer/machinelearning/blob/master/python_pip_tool
