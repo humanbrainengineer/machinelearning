@@ -59,3 +59,8 @@ or pip install statsmodels --upgrade   #solve the :import statsmodels.formula.ap
 14.pip install python-utils
 
 15. pip install cvxopt
+
+  254  pip install pymouse
+  255  pip install pyparsing
+  256  pip install dateutil
+  257  pip install chainer
