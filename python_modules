@@ -64,3 +64,5 @@ or pip install statsmodels --upgrade   #solve the :import statsmodels.formula.ap
   255  pip install pyparsing
   256  pip install dateutil
   257  pip install chainer
+  
+  apt-get install python-opencv  # cv2 modules
