@@ -69,3 +69,10 @@ or pip install statsmodels --upgrade   #solve the :import statsmodels.formula.ap
   pip install gensim
   pip install MDAnalysis 
   pip install obspy
+  
+   sudo apt-get install python-gdal
+   sudo apt-get install gdal-bin
+   sudo apt-get install qgis
+   
+   
+   
