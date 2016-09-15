@@ -74,5 +74,7 @@ or pip install statsmodels --upgrade   #solve the :import statsmodels.formula.ap
    sudo apt-get install gdal-bin
    sudo apt-get install qgis
    
-   
+   pip install mdp
+   pip install pymongo
+
    
