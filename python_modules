@@ -67,4 +67,5 @@ or pip install statsmodels --upgrade   #solve the :import statsmodels.formula.ap
   
   apt-get install python-opencv  # cv2 modules
   pip install gensim
-  pip install MDAnalysis
+  pip install MDAnalysis 
+  pip install obspy
