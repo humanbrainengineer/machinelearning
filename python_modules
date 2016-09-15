@@ -80,5 +80,6 @@ or pip install statsmodels --upgrade   #solve the :import statsmodels.formula.ap
    
    apt-get install python-rdkit librdkit1 rdkit-data
    pip install mrjob
-
    
+sudo apt-get install libtiff5-dev libjpeg8-dev zlib1g-dev libfreetype6-dev liblcms2-dev libwebp-dev tcl8.6-dev tk8.6-dev python-tk
+
