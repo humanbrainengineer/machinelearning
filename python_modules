@@ -79,5 +79,6 @@ or pip install statsmodels --upgrade   #solve the :import statsmodels.formula.ap
    pip install 5hpy
    
    apt-get install python-rdkit librdkit1 rdkit-data
+   pip install mrjob
 
    
