@@ -85,3 +85,5 @@ sudo apt-get install libtiff5-dev zlib1g-dev libfreetype6-dev liblcms2-dev libwe
 sudo apt-get install libjpeg8-dev
 pip install pyserial
 pip install orange
+pip install h5py
+pip install tushare
