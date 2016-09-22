@@ -84,3 +84,4 @@ or pip install statsmodels --upgrade   #solve the :import statsmodels.formula.ap
 sudo apt-get install libtiff5-dev zlib1g-dev libfreetype6-dev liblcms2-dev libwebp-dev tcl8.6-dev tk8.6-dev python-tk
 sudo apt-get install libjpeg8-dev
 pip install pyserial
+pip install orange
