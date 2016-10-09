@@ -87,3 +87,4 @@ pip install pyserial
 pip install orange
 pip install h5py
 pip install tushare
+pip install pytest
