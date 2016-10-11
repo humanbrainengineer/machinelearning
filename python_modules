@@ -91,3 +91,4 @@ pip install pytest
 
 pip install prettytable
 pip install mechanize
+pip install apyori
