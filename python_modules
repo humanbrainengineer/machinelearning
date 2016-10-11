@@ -88,3 +88,6 @@ pip install orange
 pip install h5py
 pip install tushare
 pip install pytest
+
+pip install prettytable
+pip install mechanize
