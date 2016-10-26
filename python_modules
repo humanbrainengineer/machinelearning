@@ -94,3 +94,4 @@ pip install mechanize
 pip install apyori
 pip install app
 pip install flask
+pip install svdog
