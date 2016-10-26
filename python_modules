@@ -98,3 +98,4 @@ pip install svdog
 pip install prettyplotlib
 pip install ipwhois
 pip install MDSplus
+pip install recsys
