@@ -99,3 +99,5 @@ pip install prettyplotlib
 pip install ipwhois
 pip install MDSplus
 pip install recsys
+pip install mahotas
+
