@@ -1,0 +1,26 @@
+
+https://my.oschina.net/u/1046919/blog/479947
+
+从第二步骤--开始！
+##########################################################################
+2.下载安装包opencv-3.0.0.zip,也可以自行上opencv官网下载http://opencv.org/。
+
+解压安装包到你想要的地方，本文以存放主文件加下。
+
+3. 利用终端进入opencv3文件夹，代码如下：
+cd ~/opencv-3.0.0
+4. 新建build文件夹存放opencv的编译文件，进入build文件夹代码如下
+
+mkdir build
+cd build
+5. 配置opencv文件，代码如下：
+cmake -D CMAKE_BUILD_TYPE=Release -D CMAKE_INSTALL_PREFIX=/usr/local ..
+或者使用cmake-gui用图形界面编译。
+
+6. 进行编译，代码如下：
+
+make
+7. 安装opencv库到系统，代码如下：
+
+sudo make install
+这样OpenCV就可以使用了。
